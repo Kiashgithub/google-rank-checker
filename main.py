@@ -63,7 +63,7 @@ def get_domain_names_from_list(url_list):
 
 domain_list = get_domain_names_from_list(url_list)
 
-print(get_domain_names_from_list(url_list))
+#print(get_domain_names_from_list(url_list))
 
 if url in domain_list:
     print("the domain is in top ten rank of google search")
